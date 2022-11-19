@@ -7,6 +7,4 @@ Para jogar serão necessários alguns requisitos, explicados abaixo:
 - ter o C++ na versão 17 ou superior;
 - ter o cmake e git instalados.
 
-##Instalação
-
-
+## Instalação:
